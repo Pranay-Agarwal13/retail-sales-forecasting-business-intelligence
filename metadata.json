@@ -1,0 +1,6 @@
+{
+  "name": "Retail Sales Forecasting & BI",
+  "description": "Portfolio-grade retail sales forecasting, SQL analytics, and Power BI intelligence platform with modular Python pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
